@@ -110,3 +110,5 @@ root.title("CHATBOT")    #name of window
 #root.iconbitmap(r'C:\Users\user\Desktop\all\corona_hxd_icon.ico') #icon for tkinter window
 
 root.mainloop()  #end of main loop
+
+#github:- @padalakiran
